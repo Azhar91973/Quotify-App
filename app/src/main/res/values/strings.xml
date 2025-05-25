@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quotes App</string>
+    <string name="quotify">QUOTIFY</string>
+    <string name="icon">icon</string>
+    <string name="bruce_wayne">Bruce Wayne</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+    <string name="share_btn">Share_Btn</string>
+    <string name="quote_text">Genius is one percent inspiration and ninety-nine percent perspiration.</string>
+</resources>
